@@ -158,6 +158,7 @@ Delete a note by its ID.
 ## Folder Structure
 
 ```bash
+- node_modules/
 - src/
   - handler.js      # Contains all handler functions for the API
   - notes.js        # Stores the list of notes
