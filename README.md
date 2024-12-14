@@ -22,7 +22,7 @@ To get started with this project locally, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/notes-app-back-end.git
+git clone https://github.com/Sealonk/notes-app-back-end.git
 ```
 
 ### 2. Install dependencies
