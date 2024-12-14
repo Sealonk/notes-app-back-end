@@ -160,12 +160,13 @@ Delete a note by its ID.
 ```bash
 - node_modules/
 - src/
-  - handler.js      # Contains all handler functions for the API
-  - notes.js        # Stores the list of notes
-  - routes.js       # Defines API routes and their handlers
-  - server.js       # Initializes and starts the Hapi.js server
-- .gitignore        # Git ignore file
-- eslint.config.mjs # ESLint configuration file
-- package.json      # Project metadata and dependencies
-- README.md         # Project documentation
+  - handler.js         # Contains all handler functions for the API
+  - notes.js           # Stores the list of notes
+  - routes.js          # Defines API routes and their handlers
+  - server.js          # Initializes and starts the Hapi.js server
+- .gitignore           # Git ignore file
+- eslint.config.mjs    # ESLint configuration file
+- package.json         # Project metadata and dependencies
+- package-lock.json    # Lock file for npm dependencies
+- README.md            # Project documentation
 ```
